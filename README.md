@@ -1,10 +1,10 @@
-# Damatag
+# TodoDamaTag
 
 Developers documentation containing setup processes and rules to work in the project.
 
 <!-- TOC -->
 
-* [Foodz](#Foodz)
+* [Todo DamaTag](#Todo DamaTag)
     * [Getting Started](#getting-started)
         * [Generate models serialization files using build runner:](#generate-models-serialization-files-using-build-runner-)
     * [Notice!!](#notice--)
