@@ -1,4 +1,4 @@
-# Foodz
+# Damatag
 
 Developers documentation containing setup processes and rules to work in the project.
 
